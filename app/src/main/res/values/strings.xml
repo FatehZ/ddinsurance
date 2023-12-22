@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">DD Insurance</string>
+    <string name="label_back">Back</string>
+
+    <string name="home_search">Courses</string>
+    <string name="home_cart">Chat</string>
+    <string name="home_profile">Profile</string>
+
+    <string name="label_filters">Filters</string>
+    <string name="label_select_delivery">Select delivery address</string>
+
+    <string name="search">Search</string>
+
+    <string name="where_do_you_live">Where do you live?</string>
+
+    <string name="alphabetical">Alphabetical</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_create_account">Sign in or create an account</string>
+    <string name="or">or</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="user_continue">Continue</string>
+    <string name="create_account">Create account</string>
+    <string name="terms_and_conditions">
+        By continuing, you agree to our Terms of Service. We’ll
+        handle your data according to our Privacy Policy.</string>
+    <string name="feature_not_available">Feature not available</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="done">Done</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+
+    <string name="question_count">\u00A0of %d</string>
+    <string name="select_one">Select one.</string>
+    <string name="select_all">Select all that apply.</string>
+    <string name="select_date">Select date</string>
+
+
+    <string name="pick_superhero">Select your degree</string>
+    <string name="student">Student</string>
+    <string name="mentor">Research Mentor</string>
+
+    <string name="date_specify">Please, specify the date you were born.</string>
+
+
+    <string name="residence_question">Where do you live?</string>
+    <string name="survey_result_title">Compose</string>
+    <string name="survey_result_subtitle">Congratulations, you are Compose</string>
+    <string name="survey_result_description">You are a curious developer, always willing to try
+        something new. You want to stay up to date with the trends to Compose is your middle name.</string>
+    <string name="strongly_dislike">Strongly\nDislike</string>
+    <string name="_10">10</string>
+    <string name="neutral">Neutral</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook\n</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="_5">5</string>
+    <string name="_0">0</string>
+    <string name="your_activity">Rate your daily activity out of 10</string>
+    <string name="what_is_gender">What is your gender?</string>
+    <string name="enter_weight">What is your current weight? (kg)</string>
+    <string name="enter_height">What is your current height? (cm)</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="do_you_drink">Do you drink alcohol?</string>
+    <string name="do_you_smoke">Do you smoke?</string>
+    <string name="do_you_have_genetic">Do you have any genetic diseases?</string>
+    <string name="do_you_have_allergy">Do you have allergy?</string>
+    <string name="select_reserve_date">Please, select the date of meeting.</string>
+    <string name="meeting_setup">Meeting is set up!</string>
+
+</resources>
